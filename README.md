@@ -24,6 +24,9 @@
 - Under console, command prompt, or terminal, change to directory where index.js is located.
 - Type 'npm i'.
 - Type 'npm install uuid'.  This will install the uuid package.
+- Type 'npm start' to launch the server
+    - Alternatively, you can type 'npm run devStart' if you are planning to do some changes to code.  This will enable auto-restart of the server everytime you change your code.
+- Type 'http://localhost:3000' at the URL bar to 
 
 
 ### Usage:  
