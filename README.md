@@ -21,11 +21,11 @@
 
 ### Installation:    
 - Fork or copy the whole directory.
-- Under console, command prompt, or terminal, change to directory where index.js is located.
+- Under console, command prompt, or terminal, change to directory where server.js is located.
 - Type 'npm i'.
 - Type 'npm start' to launch the server
     - Alternatively, you can type 'npm run devStart' if you are planning to do some changes to code.  This will enable auto-restart of the server everytime you change your code.
-- Type 'http://localhost:3000' at the URL bar to start the server.
+- Type 'http://localhost:3000' at the URL bar to access the application.
 - Should there be a problem with running the application please type the following unto the command prompt/terminal.
     - Type 'npm install uuid'.  This will install the uuid package.
     - Type 'npm install nodemon'
@@ -47,7 +47,7 @@
 
 [logo]: src/demo_page.png "Note Taker demo"
 
-- Video link:  [Video](https://watch.screencastify.com/v/QAww3m0zcQC8nRVCLdV2)
+- Video link:  [Video](https://watch.screencastify.com/v/SqUVzoI7OQgSY3F0Awqt)
 - App link:  [Notes](https://notes-reynan.herokuapp.com/)
 
 ### Questions: 
