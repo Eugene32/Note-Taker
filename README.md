@@ -6,6 +6,7 @@
 - This is a an application that utilizes express.js for a server based web page.
 - A user can save and redeem notes to a JSON file as hosted by a server.
 - Routing had been done to allow retrieval and saving of result under a same web page or URL.
+- Delete function is under construction.
 
 
 ## TABLE OF CONTENTS:
@@ -42,6 +43,7 @@
 [logo]: src/demo_page.png "Team Generator demo"
 
 - Video link:  [Video](https://watch.screencastify.com/v/QAww3m0zcQC8nRVCLdV2)
+- App link:  [Notes](https://notes-reynan.herokuapp.com/)
 
 ### Questions: 
 
